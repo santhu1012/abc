@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39208" started-at="2018-06-14T23:01:27Z" finished-at="2018-06-14T23:02:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39208" started-at="2018-06-14T23:01:27Z" finished-at="2018-06-14T23:02:06Z">
+      <class name="com.commomIQ.ResizeExample">
+        <test-method status="PASS" signature="testToResizeElement()[pri:0, instance:com.commomIQ.ResizeExample@47c62251]" name="testToResizeElement" duration-ms="39114" started-at="2018-06-14T16:01:27Z" finished-at="2018-06-14T16:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testToResizeElement -->
+      </class> <!-- com.commomIQ.ResizeExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
